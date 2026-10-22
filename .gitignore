@@ -1,0 +1,13 @@
+
+bin/
+obj/
+.vs/
+
+# Khong dua khoa AES len GitHub
+aes_key.txt
+
+# Bo qua file kiem thu lon va ban ma
+*.aes
+large_test.bin
+large_test_decrypted.bin
+input_decrypted.txt
